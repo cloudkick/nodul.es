@@ -1,6 +1,6 @@
 </div>
-<div class="">
-
+<div class="rightbar">
+</div>
 </div>
 </body>
 </html>
