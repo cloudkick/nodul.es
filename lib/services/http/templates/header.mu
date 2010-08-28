@@ -9,3 +9,14 @@
 {{/title}}
 </head>
 <body>
+<div class="header">
+</div>
+<div class="body">
+<div class="leftbar">
+<ul>
+  <li>like stuff</li>
+  <li>more stuff</li>
+  <li>more menu stuff</li>
+</ul>
+</div>
+<div class="mainbody">
