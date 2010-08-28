@@ -20,12 +20,14 @@ source = Split("""
 nodules-server/entry.js
 services/http.js
 services/indexer.js
+services/source_downloader.js
 services/http/authors.js
 services/http/categories.js
 services/http/index.js
 services/http/media.js
 services/http/module.js
 services/http/templates.js
+services/source_downloader.js
 util/config.js
 util/getopt.js
 util/log.js
