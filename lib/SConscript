@@ -26,6 +26,7 @@ services/http/index.js
 services/http/media.js
 services/http/module.js
 services/http/templates.js
+services/source_downloader.js
 util/config.js
 util/getopt.js
 util/log.js
