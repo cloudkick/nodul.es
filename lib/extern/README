@@ -20,6 +20,11 @@ optparse cae3b09d324223 (June 28, 2010)
   License: "MIT-style license"
   Command Line argument parsing.
 
+paperboy 4b3cc2fcde1fe9 (August 2, 2010)
+  http://github.com/felixge/node-paperboy/
+  License: MIT
+  Used for serving static files from /media/
+
 sprintf 0.6
   http://www.diveintojavascript.com/projects/sprintf-for-javascript
   License: BSD
