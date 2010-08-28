@@ -14,8 +14,9 @@
 <div class="body">
 <div class="leftbar">
 <ul>
-  <li>like stuff</li>
-  <li>more stuff</li>
+  <li><a href="/">index</a></li>
+  <li><a href="/authors/">authors</a></li>
+  <li><a href="/categories/">categories</a></li>
   <li>more menu stuff</li>
 </ul>
 </div>
