@@ -19,6 +19,7 @@ Import("env")
 source = Split("""
 nodules-server/entry.js
 services/http.js
+services/indexer.js
 services/http/authors.js
 services/http/categories.js
 services/http/index.js
