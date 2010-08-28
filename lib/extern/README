@@ -1,0 +1,31 @@
+This directory contains Third Party code and libraries used by nodules.
+
+async b57390563ddb3786e (August 16, 2010)
+  http://github.com/caolan/async
+  License: MIT
+  Common patterns for asynchronous code in node
+
+clutch 42373a7a518739 (July 4, 2010)
+  http://github.com/clement/clutch
+  License: MIT
+  Library used to route URLs to handlers in HTTP server.
+
+mu 3bd7403e9fb (May 31, 2010)
+  http://github.com/raycmorgan/Mu
+  License: MIT
+  Template Library
+
+optparse cae3b09d324223 (June 28, 2010)
+  http://github.com/jfd/optparse-js
+  License: "MIT-style license"
+  Command Line argument parsing.
+
+sprintf 0.6
+  http://www.diveintojavascript.com/projects/sprintf-for-javascript
+  License: BSD
+  String formatting utility function.
+
+stacktrace fe9d84729c5 (May 29, 2010)
+  http://github.com/emwendelin/javascript-stacktrace
+  License: BSD
+  Utility function to make a stack trace. Slightly modified to use CommonJS style exports.
