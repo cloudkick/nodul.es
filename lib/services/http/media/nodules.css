@@ -50,11 +50,11 @@ dd { margin-bottom:15px; }
 .navbar li a {
 text-decoration:none;
 background-color: #25404d;
-background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(128, 128, 128, 0.5)), to(rgba(0, 0, 0, 0.8)));
-background-image: -moz-linear-gradient(-90deg, rgba(128, 128, 128, 0.5), rgba(0, 0, 0, 0.8));
+background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(160, 160, 160, 0.5)), to(rgba(60, 60, 60, 0.8)));
+background-image: -moz-linear-gradient(-90deg, rgba(160, 160, 160, 0.5), rgba(60, 60, 60, 0.8));
 display: inline-block;
 padding: 5px 10px 6px;
-color: #ccc;
+color: #eee;
 font-weight: bold;
 -moz-border-radius: 5px;
 -webkit-border-radius: 5px;
