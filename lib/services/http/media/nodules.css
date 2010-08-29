@@ -64,4 +64,4 @@ h5,h6 { font-size:12px; font-weight:bold; }
 .clear { clear:both; }
 .floatR { float:right; }
 .floatL { float:left; }
-
+.border { border:1px solid #ccc; }
