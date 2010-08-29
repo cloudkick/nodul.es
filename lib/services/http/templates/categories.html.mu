@@ -2,14 +2,14 @@
 
 <h1>Modules by Category</h1>
 
-<h3>Categories</h3>
-<ul class="category-listing">
-  {{#categories}}
-    <li><a href="#{{name}}">{{name}}</a></li>
-  {{/categories}}
-</ul>
-
-<hr>
+<div class="category-listing">
+  <h3>Categories</h3>
+  <ul>
+    {{#categories}}
+      <li><a href="#{{name}}">{{name}}</a></li>
+    {{/categories}}
+  </ul>
+</div><!--/.category-listing-->
 
 <dl class="categories">
   {{#categories}}
