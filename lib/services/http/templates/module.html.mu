@@ -36,6 +36,8 @@
 
   <hr>
 
+  {{version}}    
+
   {{/module}}
 
   possible variables:
