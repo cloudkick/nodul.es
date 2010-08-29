@@ -3,11 +3,11 @@
 <h1>About Nodul.es: The Node.js Module Index</h1>
 
 <div class="description">
-  <p>
+  <h3>
     Nodul.es indexes the <a href="http://github.com/isaacs/npm">NPM</a> package
     registry to make it easy to find user-created modules for <a
     href="http://github.com/ry/node">Node.js</a>.
-  </p>
+  </h3>
   <p>To have your module listed on Nodul.es simply upload it to the NPM registry using the NPM command line utility.</p>
   <p>
     Nodul.es was built in 48 hours for <a href="http://nodeknockout.com/">Node
