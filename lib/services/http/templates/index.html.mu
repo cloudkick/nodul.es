@@ -1,5 +1,18 @@
 {{> header }}
 
+<div class="news-wrapper border">
+  <div class="news">
+    {{#news}}
+    <div class="newsitem">
+    <h3>{{title}}</h3>
+    <div class="newsitembody">
+      {{{body}}}
+    </div>
+    </div>
+    {{/news}}
+  </div>
+</div><!--/.news-wrapper-->
+
 <h1>Nodul.es: The Node.js Module Index</h1>
 
 <div class="description">
@@ -10,17 +23,6 @@ Nodul.es simply upload it to the NPM registry using the NPM command line
 utility.
 </div>
 
-<div class="news">
-  {{#news}}
-  <div class="newsitem">
-  <h2>{{title}}</h2>
-  <div class="newsitembody">
-    {{{body}}}
-  </div>
-  </div>
-  {{/news}}
-</div>
-
 <h2>New Node.js Modules</h2>
 <div class="newmods">
   <ul>
@@ -29,5 +31,6 @@ utility.
   {{/newmods}}
   </ul>
 </div>
+
 
 {{> footer }}

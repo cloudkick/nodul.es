@@ -1,6 +1,7 @@
       </div><!--/.mainbody-->
       <div class="rightbar">
       </div>
+      <div class="clear"></div>
     </div><!--./body-->
   <div class="footer">
     <ul>
