@@ -17,12 +17,12 @@ ul,ol { padding:0 0 0 20px; list-style-image-color:#7e9699; }
 ul { list-style:circle; }
 
 h1,h2,h3,h4,h5,h6 { font-family: "Adobe Caslon Pro", "Georgia", serif;}
-h1 { margin:0 0 20px 0; font-size:30px; }
-h2 { margin: 20px 0; font-size:24px; }
+h1 { margin:0 0 20px 0; font-size:40px; }
+h2 { margin: 20px 0; font-size:36px; }
 h3,h4,h5,h6 { margin:10px 0 5px; }
-h3 { font-size:18px; }
-h4 { font-size:14px; }
-h5,h6 { font-size:12px; font-weight:bold; }
+h3 { font-size:24px; }
+h4 { font-size:16px; }
+h5,h6 { font-size:14px; font-weight:bold; }
 h1, h2 {
   display: inline-block;
   font-style:italic;
