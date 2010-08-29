@@ -1,6 +1,7 @@
-</div>
-<div class="rightbar">
-</div>
-</div>
+      </div><!--/.mainbody-->
+      <div class="rightbar">
+      </div>
+    </div><!--./body-->
+  </div><!--/.container-->
 </body>
 </html>

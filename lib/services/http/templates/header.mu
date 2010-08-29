@@ -7,17 +7,22 @@
 {{#title}}
 <title>Nodul.es: {{title}}</title>
 {{/title}}
+<link rel="stylesheet" type="text/css" media="screen" href="/media/nodules.css" />
 </head>
 <body>
-<div class="header">
-</div>
-<div class="body">
-<div class="leftbar">
-<ul>
-  <li><a href="/">index</a></li>
-  <li><a href="/modules/">alphabetical listing</a></li>
-  <li><a href="/authors/">by authors</a></li>
-  <li><a href="/categories/">by categories</a></li>
-</ul>
-</div>
-<div class="mainbody">
+  <div class="container">
+
+  <div class="header">
+  </div>
+
+  <div class="body">
+    <div class="leftbar">
+      <ul class="nav">
+        <li><a href="/">index</a></li>
+        <li><a href="/modules/">alphabetical listing</a></li>
+        <li><a href="/authors/">by authors</a></li>
+        <li><a href="/categories/">by categories</a></li>
+      </ul><!--/.nav-->
+    </div><!--./leftbar-->
+
+    <div class="mainbody">

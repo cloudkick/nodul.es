@@ -1,6 +1,7 @@
 {{> header }}
 
-<h1>Hi, its the (rad) Nodul.es website!</h1>
+<h1>Hi, its the Nodul.es website!</h1>
+
 <div class="news">
   {{#news}}
   <div class="newsitem">
