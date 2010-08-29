@@ -17,20 +17,22 @@
   <div class="dependencies mod-block">
     <h3>Dependencies:</h3>
     <ul>
-    {{#dependencies}}
-    <li><a href="/modules/{{name}}">{{name}}</a> {{version}}</li>
-    {{/dependencies}}
+      {{#dependencies}}
+      <li><a href="/modules/{{name}}">{{name}}</a> {{version}}</li>
+      {{/dependencies}}
     </ul>
   </div>
 
   <div class="reverse_dependencies mod-block">
     <h3>Modules depending on this package:</h3>
     <ul>
-    {{#reverse_dependencies}}
-    <li><a href="/modules/{{name}}">{{name}}</a> {{version}}</li>
-    {{/reverse_dependencies}}
+      {{#reverse_dependencies}}
+      <li><a href="/modules/{{name}}">{{name}}</a> {{version}}</li>
+      {{/reverse_dependencies}}
     </ul>
   </div>
+
+  <hr>
 
   {{/module}}
 
