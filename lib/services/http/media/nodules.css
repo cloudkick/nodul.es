@@ -53,6 +53,9 @@ h1, h2 {
 
 .nav {}
 
+.categories {}
+.cat { display:inline-block; width:200px; }
+.catitem {}
 
 .authors { list-style:none; padding:0; }
 .author {  }
