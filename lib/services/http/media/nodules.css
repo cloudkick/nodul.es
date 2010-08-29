@@ -25,6 +25,8 @@ dd { margin-bottom:10px; padding-bottom:10px; border-bottom:1px solid #ccc; }
 
 p { margin:10px 0; }
 
+hr { background:none; border:none; border-bottom:1px solid rgba(0,0,0,0.1); clear:both; }
+
 h1,h2,h3,h4,h5,h6 { font-family: "Adobe Caslon Pro", "Georgia", serif; font-weight:normal; }
 h1 { margin:0 0 20px 0; font-size:40px; }
 h2 { margin: 20px 0; font-size:36px; }
