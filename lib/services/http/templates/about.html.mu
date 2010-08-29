@@ -16,7 +16,8 @@
     to building the Node community.
   </p>
   <p>
-    Cloudkick, Inc. is a San Francisco based startup dedicated to making cloud
+    The Nodul.es team consists of three programmers and a web designer from
+    Cloudkick, a San Francisco based startup dedicated to making cloud
     computing easy and effective. We have recently begun working with Node, so
     if this sounds like your sort of thing, check out our <a
     href="http://cloudkick.jobscore.com/jobs/cloudkick/list">jobs page</a>.
