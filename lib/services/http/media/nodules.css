@@ -44,24 +44,26 @@ dt { font-size:16px; font-weight:bold; }
 dd { margin-bottom:15px; }
 
 .container { margin:0 auto; width:960px; padding:0 0 40px 0; }
-
-.navbar { padding:10px 0; }
+.navbar-wrapper {
+  background-color: #25404d;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(160, 160, 160, 0.5)), to(rgba(60, 60, 60, 0.8)));
+  background-image: -moz-linear-gradient(-90deg, rgba(160, 160, 160, 0.5), rgba(60, 60, 60, 0.8));
+}
+.navbar { 
+  margin:0 auto; 
+  width:960px;
+  padding:10px 0;
+ }
 .navbar ul { padding:0; }
 .navbar li { display:inline-block; padding:0 10px 0 0; }
 .navbar li a {
-color:#eee;
-text-decoration:none;
-background-color: #25404d;
-background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(160, 160, 160, 0.5)), to(rgba(60, 60, 60, 0.8)));
-background-image: -moz-linear-gradient(-90deg, rgba(160, 160, 160, 0.5), rgba(60, 60, 60, 0.8));
-display: inline-block;
-padding: 5px 10px 6px;
-font-weight: bold;
--moz-border-radius: 5px;
--webkit-border-radius: 5px;
--moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
--webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
-text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+  color:#eee;
+  text-decoration:none;
+  display: inline-block;
+  font-size:18px;
+  padding: 0px 10px;
+  font-weight: bold;
+  text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
 }
 
 .body { 
