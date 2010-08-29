@@ -61,7 +61,7 @@ h1, h2 {
 .authors { list-style:none; padding:0; }
 .author {  }
 .author .name { font-weight:bold; }
-.author .projects {  }
+.author .projects { margin-bottom:10px; }
 .author .projects li { display:inline; }
 
 .clear { clear:both; }
