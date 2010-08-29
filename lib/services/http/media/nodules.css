@@ -61,7 +61,7 @@ h1, h2 {
 
 .authors { list-style:none; padding:0; }
 .author {  }
-.author .name { font-weight:bold; }
+.author .name {  }
 .author .projects { margin-bottom:15px; }
 .author .projects li { display:inline-block; padding:0 8px 0 5px; margin:0 0 5px 0; border-right:1px solid #ccc; }
 .author .projects li:last-child { border-right:none; }
