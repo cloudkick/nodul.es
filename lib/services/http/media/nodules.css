@@ -43,7 +43,7 @@ h1, h2 {
 
 .navbar { padding:10px 0; }
 .navbar ul { padding:0; }
-.navbar li { display:inline-block; padding:0 10px 0 0;}
+.navbar li { display:inline-block; padding:5px 10px; border-right:1px solid #aaa; }
 .navbar a:link, .navbar a:visited { 
   text-decoration:none;
   font-size:18px;

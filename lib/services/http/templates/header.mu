@@ -17,7 +17,7 @@
 
     <div class="navbar">
       <ul class="nav">
-        <li><a href="/">Home</a></li>
+        <li><a href="/">Node.js Modules</a></li>
         <li><a href="/modules/">Alphabetical listing</a></li>
         <li><a href="/authors/">Authors</a></li>
         <li><a href="/categories/">Categories</a></li>
