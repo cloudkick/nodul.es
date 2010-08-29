@@ -10,19 +10,21 @@
 <link rel="stylesheet" type="text/css" media="screen" href="/media/nodules.css" />
 </head>
 <body>
-  <div class="container shadow">
+  <div class="container">
 
   <div class="header">
   </div>
 
-  <div class="body">
-    <div class="leftbar">
+    <div class="navbar">
       <ul class="nav">
-        <li><a href="/">index</a></li>
-        <li><a href="/modules/">alphabetical listing</a></li>
-        <li><a href="/authors/">by authors</a></li>
-        <li><a href="/categories/">by categories</a></li>
+        <li><a href="/">Home</a></li>
+        <li><a href="/modules/">Alphabetical listing</a></li>
+        <li><a href="/authors/">Authors</a></li>
+        <li><a href="/categories/">Categories</a></li>
       </ul><!--/.nav-->
-    </div><!--./leftbar-->
+    </div><!--./navbar-->
+
+  <div class="body">
+
 
     <div class="mainbody">
