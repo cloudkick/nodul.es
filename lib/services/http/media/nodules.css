@@ -47,8 +47,8 @@ h1, h2 {
   padding:10px; 
 }
 
-.mainbody { }
-.rightbar { }
+.mainbody { margin-right:180px; }
+.rightbar { float:right; width:160px; }
 
 .shadow { -moz-box-shadow:0 0 3px rgba(0,0,0,0.25); -webkit-box-shadow:0 0 3px rgba(0,0,0,0.25); }
 
@@ -68,3 +68,6 @@ h1, h2 {
 .floatR { float:right; }
 .floatL { float:left; }
 .border { border:1px solid #ccc; }
+
+.footer { text-align:center; }
+.footer li { display:inline-block; padding:2px 10px; 

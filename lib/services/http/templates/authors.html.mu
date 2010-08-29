@@ -1,6 +1,6 @@
 {{> header }}
 
-<h1>By Author</h1>
+<h1>Modules by Author</h1>
 
 <ul class="authors">
   {{#authors}}

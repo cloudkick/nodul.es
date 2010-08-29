@@ -1,6 +1,6 @@
 {{> header }}
 
-<h1>Categories</h1>
+<h1>Modules by Category</h1>
 <div class="categories">
   {{#categories}}
   <div class="cat">
