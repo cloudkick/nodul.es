@@ -64,6 +64,7 @@ h1, h2 {
 .author .name { font-weight:bold; }
 .author .projects { margin-bottom:10px; }
 .author .projects li { display:inline-block; padding:0 5px; border-right:1px solid #eee; }
+.author .projects li:last-child { border-right:none; }
 
 .clear { clear:both; }
 .floatR { float:right; }
