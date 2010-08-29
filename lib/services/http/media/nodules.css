@@ -10,7 +10,7 @@ body {
   text-rendering: optimizelegibility;
 }
 
-.container { margin:0 auto; width:960px; }
+.container { margin:0 auto; width:960px; padding:0 0 20px 0; }
 
 .navbar { padding:10px 0; }
 .navbar li { display:inline-block; padding:0 10px 0 0;}
@@ -21,7 +21,6 @@ a img { border: none; }
 .body { 
   background:rgba(255,255,255,0.85); 
   padding:10px; 
-  margin: 0 0 40px 0;
 }
 
 .mainbody { }
