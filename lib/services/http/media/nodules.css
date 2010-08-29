@@ -56,9 +56,12 @@ h5,h6 { font-size:12px; font-weight:bold; }
 }
 
 .authors { list-style:none; padding:0; }
-.author { clear:left; }
-.author .name { display:inline-block; padding-right:20px; font-weight:bold; width:140px; }
-.author .projects { display:inline-block; margin-left:140px; }
+.author {  }
+.author .name { }
+.author .projects {  }
 .author .projects li { display:inline; }
 
 .clear { clear:both; }
+.floatR { float:right; }
+.floatL { float:left; }
+.border { border:1px solid #ccc; }
