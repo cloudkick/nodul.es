@@ -11,6 +11,7 @@
 </head>
 <body>
 
+  <div class="navbar-wrapper">
   <div class="navbar">
     <ul class="nav">
       <li><a href="/">Node.js Modules</a></li>
@@ -19,6 +20,7 @@
       <li><a href="/categories/">Categories</a></li>
     </ul><!--/.nav-->
   </div><!--./navbar-->
+  </div><!--./navbar-wrapper-->
 
   <div class="container">
 
