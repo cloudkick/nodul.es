@@ -5,6 +5,8 @@
   <h1><span class="dark">Module:</span> {{name}}</h1>
   <div class="desc">{{description}}</div>
 
+  <hr>
+
   <div class="authors mod-block">
     <h3>Authors:</h3>
     <ul>
