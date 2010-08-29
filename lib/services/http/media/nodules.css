@@ -18,7 +18,7 @@ body {
 a:link, a:visited { color: #7e9699; }
 a img { border: none; }
 
-ul,ol { padding:0 0 0 20px; }
+ul,ol { padding:0 0 0 20px; list-style-image-color:##7e9699; }
 
 .body { 
   background:rgba(255,255,255,0.85); 
