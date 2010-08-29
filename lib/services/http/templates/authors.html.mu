@@ -1,19 +1,20 @@
 {{> header }}
 
-<h1>By Author</h1>
+<h1>Modules by Author</h1>
 
-<div class="authors">
+<ul class="authors">
   {{#authors}}
-  <div class="author">
-  <h3 class="name"><a href="/authors/{{name}}">{{name}}</a></h3>
-    <ul class="projects">
+  <li class="author">
+  <dt class="name"><a href="/authors/{{name}}">{{name}}</a></dt>
+  <dd class="projects">
+    <ul>
     {{#projects}}
       <li><a href="/modules/{{_id}}" alt="{{description}}">{{name}}</a></li>
     {{/projects}}
     </ul>
-  </div><!--./author-->
-  <hr class="clear">
+  </dd>
+  </li><!--./author-->
   {{/authors}}
-</div><!--./authors-->
+</ul><!--./authors-->
 
 {{> footer }}

@@ -2,6 +2,12 @@
       <div class="rightbar">
       </div>
     </div><!--./body-->
+  <div class="footer">
+    <ul>
+      <li>About</li>
+      <li>Vote!</li>
+    </ul>
+  </div>
   </div><!--/.container-->
 </body>
 </html>

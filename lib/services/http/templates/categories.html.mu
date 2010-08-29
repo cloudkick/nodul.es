@@ -1,19 +1,19 @@
 {{> header }}
 
-<h1>Categories page</h1>
+<h1>Modules by Category</h1>
 <div class="categories">
   {{#categories}}
-  <div class="catitem">
-  <h2>{{name}}</h2>
-  <div class="catitembody">
-    <ul>
-    {{#projects}}
-      <li>{{name}}</li>
-    {{/projects}}
-    </ul>
-  </div>
-  </div>
+  <div class="cat">
+    <h3>{{name}}</h3>
+    <div class="catitem">
+      <ul>
+      {{#projects}}
+        <li>{{name}}</li>
+      {{/projects}}
+      </ul>
+    </div><!--/.catitem-->
+  </div><!--/.cat-->
   {{/categories}}
-</div>
+</div><!--/.categories-->
 
 {{> footer }}

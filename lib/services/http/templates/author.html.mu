@@ -2,7 +2,7 @@
 
 <div class="authors">
   {{#author}}
-  <h1>{{name}}</h1>
+  <h1><img class="floatR border" style="position:relative; left:15px;" src="{{avatar_url}}"/> {{name}}</h1>
   <div class="newsitembody">
     <ul>
     {{#projects}}
