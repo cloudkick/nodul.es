@@ -43,7 +43,7 @@ h1, h2 {
 dt { font-size:16px; font-weight:bold; }
 dd { margin-bottom:15px; }
 
-.container { margin:0 auto; width:960px; padding:0 0 40px 0; }
+.container { margin:0 auto; width:960px; padding:10px 0 40px 0; }
 .navbar-wrapper {
   background-color: #25404d;
 }
