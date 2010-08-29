@@ -1,7 +1,8 @@
 * { font-family:"Helvetica Neue", Helvetica, Arial, sans-serif; }
 
-html { background:#f5f5f5; }
+html { background:#f5f5f5; margin:0; padding:0; }
+body { margin:0; padding:0; }
 
-.container { margin:0 auto; width:960px; border-radius:10px;  background:#fff; }
+.container { margin:0 auto; width:960px; background:#fff; padding:20px; }
 
 .shadow { -moz-box-shadow:0 0 3px rgba(0,0,0,0.25); -webkit-box-shadow:0 0 3px rgba(0,0,0,0.25); }
