@@ -8,7 +8,7 @@
     <div class="catitem">
       <ul>
       {{#projects}}
-        <li>{{name}}</li>
+        <li><a href="/modules/{{_id}}">{{name}}</a></li>
       {{/projects}}
       </ul>
     </div><!--/.catitem-->
