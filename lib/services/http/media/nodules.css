@@ -62,3 +62,6 @@ h5,h6 { font-size:12px; font-weight:bold; }
 .author .projects li { display:inline; }
 
 .clear { clear:both; }
+.floatR { float:right; }
+.floatL { float:left; }
+
