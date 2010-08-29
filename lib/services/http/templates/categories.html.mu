@@ -1,18 +1,16 @@
 {{> header }}
 
 <h1>Modules by Category</h1>
-<div class="categories">
+<dl class="categories">
   {{#categories}}
-  <div class="cat">
-    <h3>{{name}}</h3>
-    <div class="catitem">
+    <dt>{{name}}</dt>
+    <dl>
       <ul>
       {{#projects}}
         <li><a href="/modules/{{_id}}">{{name}}</a></li>
       {{/projects}}
       </ul>
-    </div><!--/.catitem-->
-  </div><!--/.cat-->
+    </dl>
   {{/categories}}
 </div><!--/.categories-->
 

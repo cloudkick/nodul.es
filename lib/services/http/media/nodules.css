@@ -1,6 +1,7 @@
 * {  margin:0; padding:0; } 
 html { background:#f5f5f5; height:100%; }
 body {
+  font-size:14px;
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
   padding: 0;
   margin:0;
@@ -11,15 +12,17 @@ body {
   text-rendering: optimizelegibility;
 }
 
-a:link, a:visited { color: #7e9699; }
+a:link, a:visited { color: #5c7477; }
+a:hover, .navbar a:hover { color:rgba(100, 100, 180, 1); }
+
 a img { border: none; }
-ul,ol { padding:0 0 0 20px; list-style-image-color:#7e9699; }
+ul,ol { padding:0 0 0 20px; }
 ul { list-style:circle; }
 
 h1,h2,h3,h4,h5,h6 { font-family: "Adobe Caslon Pro", "Georgia", serif; font-weight:normal; }
 h1 { margin:0 0 20px 0; font-size:40px; }
 h2 { margin: 20px 0; font-size:36px; }
-h3,h4,h5,h6 { margin:10px 0 5px; }
+h3,h4,h5,h6 { margin:10px 0; }
 h3 { font-size:24px; }
 h4 { font-size:16px; }
 h5,h6 { font-size:14px; font-weight:bold; }
@@ -36,12 +39,21 @@ h1, h2 {
   -moz-box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); 
 }
 
+dt { font-size:16px; font-weight:bold; }
+dd { margin-bottom:15px; }
+
 .container { margin:0 auto; width:960px; padding:0 0 40px 0; }
 
 .navbar { padding:10px 0; }
-.navbar li { display:inline-block; padding:0 10px 0 0;}
-.navbar a:link, ,.navbar a:visited { color:#eee; }
-
+.navbar ul { padding:0; }
+.navbar li { display:inline-block; padding:5px 10px; border-right:1px solid #333; }
+.navbar li:last-child { border-right:none; }
+.navbar a:link, .navbar a:visited { 
+  text-decoration:none;
+  font-size:18px;
+  color:#ccc; 
+  text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.5);
+}
 .body { 
   background:rgba(255,255,255,0.85); 
   padding:10px; 
@@ -60,9 +72,10 @@ h1, h2 {
 
 .authors { list-style:none; padding:0; }
 .author {  }
-.author .name { font-weight:bold; }
-.author .projects { margin-bottom:10px; }
-.author .projects li { display:inline; }
+.author .name { font-size:16px; font-weight:bold; }
+.author .projects { margin-bottom:15px; }
+.author .projects li { display:inline-block; padding:0 8px 0 5px; margin:5px 0; border-right:1px solid #ccc; }
+.author .projects li:last-child { border-right:none; }
 
 .clear { clear:both; }
 .floatR { float:right; }
@@ -70,4 +83,5 @@ h1, h2 {
 .border { border:1px solid #ccc; }
 
 .footer { text-align:center; padding:10px 0; color:#eee; }
-.footer li { display:inline-block; padding:2px 10px; 
+.footer li { display:inline-block; padding:2px 10px; }
+
