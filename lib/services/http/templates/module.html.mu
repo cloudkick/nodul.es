@@ -40,12 +40,13 @@
 
   possible variables:
   <pre><code>{{debug_plaintext}}<code></pre>
-
+<!--
   Files:
   <ul>
     {{#files}}
       <li><a href="/source/{{modname}}/{{name}}">{{name}}</a></li>
     {{/files}}
   </ul>
+  -->
 </div><!--/.module-->
 {{> footer }}
