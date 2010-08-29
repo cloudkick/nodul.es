@@ -76,7 +76,7 @@ h1, h2 {
 
 .mainbody {  }
 .rightbar { }
-.news-wrapper { float:right; margin:10px; padding:10px; }
+.news-wrapper { float:right; margin:10px; padding:10px; width:180px; }
 
 .shadow { -moz-box-shadow:0 0 3px rgba(0,0,0,0.25); -webkit-box-shadow:0 0 3px rgba(0,0,0,0.25); }
 
