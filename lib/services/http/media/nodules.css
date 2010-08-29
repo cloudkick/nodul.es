@@ -12,7 +12,7 @@ body {
   text-rendering: optimizelegibility;
 }
 
-.container { margin:20px auto; width:960px; background:#fff; padding:20px; }
+.container { margin:0 auto; width:960px; background:#fff; padding:20px; }
 
 .leftbar { float:left; width:180px; }
 .mainbody { margin:0 0 0 180px; border-left:1px solid #eee; }
