@@ -7,6 +7,6 @@
   <li><a href="/modules/{{_id}}"">{{name}}</a> - {{description}}</a></li>
   {{/modules}}
   </ul>
-</div>
+</div><!--./modules-->
 
 {{> footer }}

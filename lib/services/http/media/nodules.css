@@ -1,3 +1,5 @@
-* { font-family:"Trebuchet MS", Helvetica, Arial, sans-serif; }
+* { font-family:"Helvetica Neue", Helvetica, Arial, sans-serif; }
 
-.container { margin:0 auto; width:960px; }
+html { background:#f5f5f5; }
+
+.container { margin:0 auto; width:960px; border-radius:10px; -moz-box-shadow:0 0 3px #000; -webkit-box-shadow:0 0 3px #000; background:#fff; }
