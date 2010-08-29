@@ -16,13 +16,13 @@
   </div>
 
   <div class="body">
-    <div class="leftbar">
+    <div class="navbar">
       <ul class="nav">
         <li><a href="/">index</a></li>
         <li><a href="/modules/">alphabetical listing</a></li>
         <li><a href="/authors/">by authors</a></li>
         <li><a href="/categories/">by categories</a></li>
       </ul><!--/.nav-->
-    </div><!--./leftbar-->
+    </div><!--./navbar-->
 
     <div class="mainbody">
