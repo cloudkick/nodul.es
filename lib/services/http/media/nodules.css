@@ -5,4 +5,9 @@ body { margin:0; padding:0; }
 
 .container { margin:20px auto; width:960px; background:#fff; padding:20px; }
 
+.leftbar { float:left; width:180px; }
+.mainbody { margin:0 20px; }
+
 .shadow { -moz-box-shadow:0 0 3px rgba(0,0,0,0.25); -webkit-box-shadow:0 0 3px rgba(0,0,0,0.25); }
+
+.nav {}
