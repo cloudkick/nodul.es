@@ -41,5 +41,5 @@ a img { border: none; }
 }
 
 .author {
-  float:left; overflow:auto;
+  display:inline-block; padding:10px; 
 }
