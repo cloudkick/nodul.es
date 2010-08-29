@@ -1,13 +1,21 @@
 {{> header }}
 
-<h1>Hi, its the Nodul.es website!</h1>
+<h1>Nodul.es: The Node.js Module Index</h1>
+
+<div class="description">
+Nodul.es indexes the <a href="http://github.com/isaacs/npm">NPM</a> package
+registry to make it easy to find user created modules for <a
+href="http://github.com/ry/node">Node.js</a>. To have your module listed on
+Nodul.es simply upload it to the NPM registry using the NPM command line
+utility.
+</div>
 
 <div class="news">
   {{#news}}
   <div class="newsitem">
   <h2>{{title}}</h2>
   <div class="newsitembody">
-    {{body}}
+    {{{body}}}
   </div>
   </div>
   {{/news}}
