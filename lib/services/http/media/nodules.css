@@ -57,7 +57,10 @@ h5,h6 { font-size:12px; font-weight:bold; }
 
 .authors {}
 .author {}
-.author .name { float:left; max-width:180px; }
-.author .projects { float:left; margin-left:200px; }
+.author .name { display:inline-block; padding-right:20px; }
+.author .projects { display:inline-block; }
+.author .projects li { display:inline; }
+.author .projects li:after { content:","; }
+.author .projects li:last:after { content:none; }
 
 .clear { clear:both; }
