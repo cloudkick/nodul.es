@@ -12,8 +12,9 @@ body {
 }
 
 a:link, a:visited { color: #7e9699; }
+a:hover { color:rgba(100, 100, 180, 1); }
 a img { border: none; }
-ul,ol { padding:0 0 0 20px; list-style-image-color:#7e9699; }
+ul,ol { padding:0 0 0 20px; }
 ul { list-style:circle; }
 
 h1,h2,h3,h4,h5,h6 { font-family: "Adobe Caslon Pro", "Georgia", serif; font-weight:normal; }
