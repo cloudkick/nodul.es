@@ -1,6 +1,6 @@
 {{> header }}
 
-<h1>Nodul.es: The Node.js Module Index</h1>
+<h1>About Nodul.es: The Node.js Module Index</h1>
 
 <div class="description">
   <p>
