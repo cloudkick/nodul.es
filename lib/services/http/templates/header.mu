@@ -10,19 +10,23 @@
 <link rel="stylesheet" type="text/css" media="screen" href="/media/nodules.css" />
 </head>
 <body>
+
+  <div class="navbar-wrapper">
+  <div class="navbar">
+    <ul class="nav">
+      <li><a href="/">Node.js Modules</a></li>
+      <li><a href="/modules/">Alphabetical listing</a></li>
+      <li><a href="/authors/">Authors</a></li>
+      <li><a href="/categories/">Categories</a></li>
+    </ul><!--/.nav-->
+  </div><!--./navbar-->
+  </div><!--./navbar-wrapper-->
+
   <div class="container">
 
   <div class="header">
   </div>
 
-    <div class="navbar">
-      <ul class="nav">
-        <li><a href="/">Node.js Modules</a></li>
-        <li><a href="/modules/">Alphabetical listing</a></li>
-        <li><a href="/authors/">Authors</a></li>
-        <li><a href="/categories/">Categories</a></li>
-      </ul><!--/.nav-->
-    </div><!--./navbar-->
 
   <div class="body">
 

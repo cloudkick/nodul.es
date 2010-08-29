@@ -1,7 +1,7 @@
 {{> header }}
 
 {{#module}}
-<h1>{{name}}</h1>
+<h1><span class="dark">Module:</span> {{name}}</h1>
 <div class="desc">{{description}}</div>
 <div class="authors">
 Authors:
