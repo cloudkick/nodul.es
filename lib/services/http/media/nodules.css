@@ -21,7 +21,7 @@ ul,ol { padding:0 0 0 20px; }
 ul { list-style:circle; }
 
 dt { font-size:16px; font-weight:bold; }
-dd { margin-bottom:8px; padding-bottom:8px; border-bottom:1px solid #eee; }
+dd { margin-bottom:10px; padding-bottom:10px; border-bottom:1px solid #ccc; }
 
 h1,h2,h3,h4,h5,h6 { font-family: "Adobe Caslon Pro", "Georgia", serif; font-weight:normal; }
 h1 { margin:0 0 20px 0; font-size:40px; }
