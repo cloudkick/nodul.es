@@ -1,6 +1,6 @@
 {{> header }}
 
-<h2>Node.js Modules</h2>
+<h1>Node.js Modules</h1>
 <div class="modules">
   <ul>
   {{#modules}}
