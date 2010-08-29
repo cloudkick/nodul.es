@@ -1,5 +1,7 @@
 {{> header }}
 
+<h1>By Author</h1>
+
 <div class="authors">
   {{#authors}}
   <div class="author">

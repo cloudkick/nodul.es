@@ -41,9 +41,4 @@ a img { border: none; }
 }
 
 .authors {}
-.author {
-  display:inline-block; 
-  padding:10px;
-  vertical-align:top;
-  width:180px;
-}
+.author {}
