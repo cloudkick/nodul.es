@@ -84,7 +84,7 @@ h1, h2 {
 
 .nav {}
 
-.category-listing { float:left: padding-right:20px; border-right:1px solid rgba(0,0,0,0.1); position:fixed; width:220px; }
+.category-listing { float:left: padding-right:20px; border-right:1px solid rgba(0,0,0,0.1); position:fixed; width:200px; }
 .categories { margin-left:240px; padding:10px 0 0 0; }
 .cat { }
 .catitem {}
