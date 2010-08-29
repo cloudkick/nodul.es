@@ -2,8 +2,8 @@
 
 {{#module}}
 <div class="module">
+  <h1><span class="dark">Module:</span> {{name}}</h1>
   <div class="desc">{{description}}</div>
-    <h1><span class="dark">Module:</span> {{name}}</h1>
 
   <div class="authors">
     Authors:
