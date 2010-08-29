@@ -11,19 +11,23 @@
 <link rel="alternate" title="Latest modules RSS feed" href="/modules/feed.atom" type="application/rss+xml">
 </head>
 <body>
+
+  <div class="navbar-wrapper">
+  <div class="navbar">
+    <ul class="nav">
+      <li><a href="/">Node.js Modules</a></li>
+      <li><a href="/modules/">Alphabetical listing</a></li>
+      <li><a href="/authors/">Authors</a></li>
+      <li><a href="/categories/">Categories</a></li>
+    </ul><!--/.nav-->
+  </div><!--./navbar-->
+  </div><!--./navbar-wrapper-->
+
   <div class="container">
 
   <div class="header">
   </div>
 
-    <div class="navbar">
-      <ul class="nav">
-        <li><a href="/">Home</a></li>
-        <li><a href="/modules/">Alphabetical listing</a></li>
-        <li><a href="/authors/">Authors</a></li>
-        <li><a href="/categories/">Categories</a></li>
-      </ul><!--/.nav-->
-    </div><!--./navbar-->
 
   <div class="body">
 
