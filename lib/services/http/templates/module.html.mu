@@ -11,7 +11,7 @@
     <h3>Authors:</h3>
     <ul>
     {{#maintainers}}
-    <li><a href="/authors/{{name}}">{{name}}</a> <a style="text-decoration:none; poasition:relative; top:5px;"><img class="border" height="20" src="{{avatar_url}}"/></a></li>
+    <li><a href="/authors/{{name}}">{{name}}</a> <a href="/authors/{{name}}" style="text-decoration:none; position:relative; top:5px;"><img class="border" height="20" src="{{avatar_url}}"/></a></li>
     {{/maintainers}}
     </ul>
   </div><!--/.authors-->
