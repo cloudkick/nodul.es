@@ -1,9 +1,8 @@
 {{> header }}
 
 <div class="authors">
-  {{#authors}}
-  <div class="newsitem">
-  <h2><a href="/authors/{{name}}">{{name}}</a></h2>
+  {{#author}}
+  <h1>{{name}}</h1>
   <div class="newsitembody">
     <ul>
     {{#projects}}
@@ -11,8 +10,7 @@
     {{/projects}}
     </ul>
   </div>
-  </div>
-  {{/authors}}
+  {{/author}}
 </div>
 
 {{> footer }}

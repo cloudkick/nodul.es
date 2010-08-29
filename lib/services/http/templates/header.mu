@@ -15,9 +15,9 @@
 <div class="leftbar">
 <ul>
   <li><a href="/">index</a></li>
-  <li><a href="/authors/">authors</a></li>
-  <li><a href="/categories/">categories</a></li>
-  <li>more menu stuff</li>
+  <li><a href="/modules/">alphabetical listing</a></li>
+  <li><a href="/authors/">by authors</a></li>
+  <li><a href="/categories/">by categories</a></li>
 </ul>
 </div>
 <div class="mainbody">
