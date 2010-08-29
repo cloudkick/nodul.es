@@ -11,7 +11,7 @@
     <h3>Authors:</h3>
     <ul>
     {{#maintainers}}
-    <li><a href="/authors/{{name}}">{{name}}</a> <a href="/authors/{{name}}" style="text-decoration:none; position:relative; top:7px;"><img class="border" height="20" src="{{avatar_url}}"/></a></li>
+    <li><a href="/authors/{{name}}">{{name}}</a></li>
     {{/maintainers}}
     </ul>
   </div><!--/.authors-->
@@ -26,7 +26,7 @@
   </div>
 
   <div class="reverse_dependencies mod-block">
-    <h3>Modules depending on this package:</h3>
+    <h3>Dependent modules:</h3>
     <ul>
       {{#reverse_dependencies}}
       <li><a href="/modules/{{name}}">{{name}}</a> {{version}}</li>
