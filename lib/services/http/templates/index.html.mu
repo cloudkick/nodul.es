@@ -16,7 +16,7 @@
 <div class="newmods">
   <ul>
   {{#newmods}}
-  <li><a href="/module/{{_id}}" alt="{{description}}">{{name}}</a></li>
+  <li><a href="/modules/{{_id}}" alt="{{description}}">{{name}}</a></li>
   {{/newmods}}
   </ul>
 </div>

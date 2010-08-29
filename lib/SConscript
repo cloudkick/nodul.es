@@ -25,7 +25,7 @@ services/http/authors.js
 services/http/categories.js
 services/http/index.js
 services/http/media.js
-services/http/module.js
+services/http/modules.js
 services/http/templates.js
 services/source_downloader.js
 util/config.js
