@@ -36,12 +36,12 @@
 
   <hr>
 
-  <h1>{{latest_version}}   </h1> 
-
   {{/module}}
 
   possible variables:
   <pre><code>{{debug_plaintext}}<code></pre>
+
+  <hr>
 
   Files:
   <ul>
