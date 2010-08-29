@@ -39,3 +39,7 @@ a img { border: none; }
   -webkit-box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); 
 }
+
+.author {
+  float:left; overflow:auto;
+}
