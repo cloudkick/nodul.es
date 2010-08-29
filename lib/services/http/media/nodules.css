@@ -60,7 +60,7 @@ h1, h2 {
 
 .authors { list-style:none; padding:0; }
 .author {  }
-.author .name { }
+.author .name { font-weight:bold; }
 .author .projects {  }
 .author .projects li { display:inline; }
 
