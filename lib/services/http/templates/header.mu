@@ -16,6 +16,7 @@
   </div>
 
   <div class="body">
+
     <div class="navbar">
       <ul class="nav">
         <li><a href="/">index</a></li>

@@ -15,6 +15,10 @@ body {
 
 .navbar { padding:10px 0; }
 .navbar li { display:inline-block; padding:0 10px 0 0;}
+.navbar a { color:#eee; }
+
+.body { background:rgba(255,255,255,0.9); }
+
 .leftbar { float:left; width:180px; }
 .mainbody { margin:0 0 0 180px; border-left:1px solid #eee; }
 .rightbar {  }
