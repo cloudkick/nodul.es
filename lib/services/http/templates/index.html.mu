@@ -12,4 +12,13 @@
   {{/news}}
 </div>
 
+<h2>New Node.js Modules</h2>
+<div class="newmods">
+  <ul>
+  {{#newmods}}
+  <li><a href="/module/{{_id}}" alt="{{description}}">{{name}}</a></li>
+  {{/newmods}}
+  </ul>
+</div>
+
 {{> footer }}
