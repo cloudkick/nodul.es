@@ -2,9 +2,8 @@
 
 <h1>Modules by Author</h1>
 
-<ul class="authors">
+<dl class="authors">
   {{#authors}}
-  <li class="author">
   <dt class="name"><a href="/authors/{{name}}">{{name}}</a></dt>
   <dd class="projects">
     <ul>
@@ -13,8 +12,7 @@
     {{/projects}}
     </ul>
   </dd>
-  </li><!--./author-->
   {{/authors}}
-</ul><!--./authors-->
+</dl><!--./authors-->
 
 {{> footer }}

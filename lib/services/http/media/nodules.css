@@ -81,15 +81,15 @@ dd { margin-bottom:15px; }
 .nav {}
 
 .categories {}
-.cat { display:inline-block; width:200px; }
+.cat { }
 .catitem {}
 
-.authors { list-style:none; padding:0; }
+.authors {  }
 .author {  }
-.author .name { font-size:16px; font-weight:bold; }
-.author .projects { margin-bottom:15px; }
-.author .projects li { display:inline-block; padding:0 8px 0 5px; margin:5px 0; border-right:1px solid #ccc; }
-.author .projects li:last-child { border-right:none; }
+.author .name { }
+.author .projects {  }
+.author .projects li {}
+.author .projects li:last-child { }
 
 .clear { clear:both; }
 .floatR { float:right; }
