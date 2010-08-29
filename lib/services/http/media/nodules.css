@@ -16,6 +16,8 @@ body {
 .navbar { padding:10px 0; }
 .navbar li { display:inline-block; padding:0 10px 0 0;}
 .navbar a { color:#eee; }
+a:link, a:visited { color: #7e9699; }
+a img { border: none; }
 
 .body { background:rgba(200,200,200,0.8); }
 
