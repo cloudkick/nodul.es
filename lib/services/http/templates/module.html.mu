@@ -2,7 +2,7 @@
 
 {{#module}}
 <div class="module">
-  <h1><span class="dark">Module:</span> {{name}}</h1>
+  <h1><span class="dark">Module:</span> {{name}} <span class="tiny" style="position:relative; left:10px; top:-20px;">(v{{latest_version}})</span></h1>
   <div class="desc">{{description}}</div>
 
   <hr>
@@ -40,12 +40,17 @@
 
   possible variables:
   <pre><code>{{debug_plaintext}}<code></pre>
+  <hr>
 
+
+  <!--
   Files:
   <ul>
     {{#files}}
       <li><a href="/source/{{modname}}/{{name}}">{{name}}</a></li>
     {{/files}}
   </ul>
+  -->
+
 </div><!--/.module-->
 {{> footer }}
