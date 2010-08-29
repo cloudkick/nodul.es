@@ -2,7 +2,7 @@
 
 {{#module}}
 <div class="module">
-  <h1><span class="dark">Module:</span> {{name}} <span class="tiny" style="margin-top:-15px;">(v{{latest_version}})</span></h1>
+  <h1><span class="dark">Module:</span> {{name}} <span class="tiny" style="position:relative; left:10px; top:-20px;">(v{{latest_version}})</span></h1>
   <div class="desc">{{description}}</div>
 
   <hr>
