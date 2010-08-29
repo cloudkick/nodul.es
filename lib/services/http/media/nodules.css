@@ -13,7 +13,7 @@ body {
   text-rendering: optimizelegibility;
 }
 
-a:link, a:visited { color: #ff9c52; }
+a:link, a:visited { color: #25404d; }
 a:hover, .navbar a:hover { color:#ff7852; }
 a img { border: none; }
 
@@ -46,6 +46,7 @@ dd { margin-bottom:15px; }
 .container { margin:0 auto; width:960px; padding:10px 0 40px 0; }
 .navbar-wrapper {
   background-color: #25404d;
+  border-bottom:1px solid #222;
 }
 .navbar { 
   margin:0 auto; 
