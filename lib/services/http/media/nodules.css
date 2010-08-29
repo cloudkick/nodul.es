@@ -27,7 +27,7 @@ p { margin:10px 0; }
 
 hr { background:none; border:none; border-bottom:1px solid rgba(0,0,0,0.1); clear:both; margin:15px 0; }
 
-h1,h2,h3,h4,h5,h6 { font-family: "Adobe Caslon Pro", "Georgia", serif; font-weight:normal; }
+h1,h2 { font-family: "Adobe Caslon Pro", "Georgia", serif; font-weight:normal; }
 h1 { margin:0 0 20px 0; font-size:40px; }
 h2 { margin: 20px 0; font-size:36px; }
 h3,h4,h5,h6 { margin:10px 0; }
@@ -84,8 +84,8 @@ h1, h2 {
 
 .nav {}
 
-.category-listing { float:left: padding-right:20px; border-right:1px solid rgba(0,0,0,0.1); position:fixed; width:180px; }
-.categories { margin-left:200px; }
+.category-listing { float:left: padding-right:20px; border-right:1px solid rgba(0,0,0,0.1); position:fixed; width:220px; }
+.categories { margin-left:240px; }
 .cat { }
 .catitem {}
 
