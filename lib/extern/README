@@ -25,6 +25,11 @@ paperboy 4b3cc2fcde1fe9 (August 2, 2010)
   License: MIT
   Used for serving static files from /media/
 
+prettify 21-Jul-2010
+  http://code.google.com/p/google-code-prettify/
+  License: Apache 2.0
+  Highlights syntax on pages
+
 sprintf 0.6
   http://www.diveintojavascript.com/projects/sprintf-for-javascript
   License: BSD
