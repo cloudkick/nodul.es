@@ -9,7 +9,7 @@ possible variables:
 Files:
 {{#files}}
 <ul>
-<li><a href="/source/????/{{name}}">{{name}}</a></li>
+<li><a href="/source/{{modname}}/{{name}}">{{name}}</a></li>
 </ul>
 {{/files}}
 {{> footer }}
