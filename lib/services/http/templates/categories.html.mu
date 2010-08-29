@@ -9,6 +9,8 @@
   {{/categories}}
 </ul>
 
+<hr>
+
 <dl class="categories">
   {{#categories}}
     <dt><a name="{{name}}"></a>{{name}}</dt>
