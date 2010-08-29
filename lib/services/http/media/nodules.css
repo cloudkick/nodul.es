@@ -10,13 +10,15 @@ body {
   text-rendering: optimizelegibility;
 }
 
-.container { margin:0 auto; width:960px; padding:0 0 20px 0; }
+.container { margin:0 auto; width:960px; padding:0 0 40px 0; }
 
 .navbar { padding:10px 0; }
 .navbar li { display:inline-block; padding:0 10px 0 0;}
 .navbar a { color:#eee; }
 a:link, a:visited { color: #7e9699; }
 a img { border: none; }
+
+ul,ol { padding:0 0 0 20px; }
 
 .body { 
   background:rgba(255,255,255,0.85); 
