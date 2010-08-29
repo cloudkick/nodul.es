@@ -30,6 +30,7 @@ services/http/templates.js
 services/source_downloader.js
 util/config.js
 util/getopt.js
+util/gravatar.js
 util/log.js
 util/misc.js
 util/pubsub.js
