@@ -4,11 +4,11 @@
 <div class="authors">
   {{#authors}}
   <div class="newsitem">
-  <h2>{{name}}</h2>
+  <h2 id="author_{{name}}">{{name}}</h2>
   <div class="newsitembody">
     <ul>
     {{#projects}}
-      <li>{{name}}</li>
+      <li><a href="/module/{{_id}}" alt="{{description}}">{{name}}</a></li>
     {{/projects}}
     </ul>
   </div>
