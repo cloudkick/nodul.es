@@ -55,12 +55,12 @@ h5,h6 { font-size:12px; font-weight:bold; }
   -moz-box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); 
 }
 
-.authors {}
-.author {}
-.author .name { display:inline-block; padding-right:20px; }
+.authors { list-style:none; padding:0; }
+.author { clear:left; }
+.author .name { display:inline-block; padding-right:20px; font-weight:bold; width:180px; }
 .author .projects { display:inline-block; }
 .author .projects li { display:inline; }
-.author .projects li:after { content:","; }
-.author .projects li:last-child:after { content:none; }
+.author .projects li:before { content:", "; }
+.author .projects li:first-child:before { content:none; }
 
 .clear { clear:both; }
