@@ -3,7 +3,7 @@
 <h1>Modules by Category</h1>
 
 <h3>Categories</h3>
-<ul>
+<ul class="category-listing">
   {{#categories}}
     <li><a href="#{{name}}">{{name}}</a></li>
   {{/categories}}

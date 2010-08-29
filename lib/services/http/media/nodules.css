@@ -85,6 +85,7 @@ h1, h2 {
 .nav {}
 
 .categories {}
+.category-listing { margin-bottom:20px; float:right: margin:10px; padding:10px; border:1px solid rgba(0,0,0,0.1); position:fixed;  }
 .cat { }
 .catitem {}
 
