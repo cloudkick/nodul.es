@@ -13,7 +13,7 @@ body {
 }
 
 a:link, a:visited { color: #5c7477; }
-a:hover { color:rgba(100, 100, 180, 1); }
+a:hover, .navbar a:hover { color:rgba(100, 100, 180, 1); }
 
 a img { border: none; }
 ul,ol { padding:0 0 0 20px; }
@@ -38,6 +38,9 @@ h1, h2 {
   -webkit-box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); 
 }
+
+dt { font-size:16px; font-weight:bold; }
+dd { margin-bottom:15px; }
 
 .container { margin:0 auto; width:960px; padding:0 0 40px 0; }
 
@@ -80,4 +83,5 @@ h1, h2 {
 .border { border:1px solid #ccc; }
 
 .footer { text-align:center; padding:10px 0; color:#eee; }
-.footer li { display:inline-block; padding:2px 10px; 
+.footer li { display:inline-block; padding:2px 10px; }
+
