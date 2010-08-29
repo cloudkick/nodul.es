@@ -8,6 +8,7 @@
 <title>Nodul.es: {{title}}</title>
 {{/title}}
 <link rel="stylesheet" type="text/css" media="screen" href="/media/nodules.css" />
+<link rel="alternate" title="Latest modules RSS feed" href="/modules/feed.atom" type="application/rss+xml">
 </head>
 <body>
 
