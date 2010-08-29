@@ -43,7 +43,8 @@ h1, h2 {
 
 .navbar { padding:10px 0; }
 .navbar ul { padding:0; }
-.navbar li { display:inline-block; padding:5px 10px; border-right:1px solid #aaa; }
+.navbar li { display:inline-block; padding:5px 10px; border-right:1px solid #333; }
+.navbar li:last-child { border-right:none; }
 .navbar a:link, .navbar a:visited { 
   text-decoration:none;
   font-size:18px;
