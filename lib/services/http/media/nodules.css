@@ -100,4 +100,4 @@ h1, h2 {
 .footer li { display:inline-block; padding:2px 10px; }
 
 
-.module .desc { float:right: font-family: "Adobe Caslon Pro", "Georgia", serif; font-weight:normal; font-size:18px; font-style:italic; }
+.module .desc { float:right; font-family: "Adobe Caslon Pro", "Georgia", serif; font-weight:normal; font-size:18px; font-style:italic; }
