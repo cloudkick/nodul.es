@@ -115,5 +115,5 @@ h1, h2 {
 }
 
 .inline-block { display:inline-block;  }
-.mod-block { vertical-align:top; display:inline-block; margin:0 20px 0 0; padding:0 20px 0 0; border-right:1px solid rgba(0,0,0,0.1); }
+.mod-block { vertical-align:top; display:inline-block; margin:0 40px 0 0; padding:0 40px 0 0;}
 
