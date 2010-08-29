@@ -27,7 +27,8 @@ a img { border: none; }
 .shadow { -moz-box-shadow:0 0 3px rgba(0,0,0,0.25); -webkit-box-shadow:0 0 3px rgba(0,0,0,0.25); }
 
 .nav {}
-.ribbon,h1,h2,h3,h4,h5,h6 {
+
+.ribbon,h1,h2{
   display: inline-block;
   background-color: rgba(187, 219, 112, 0.8);
   border: solid 1px rgba(0, 0, 0, 0.1);
