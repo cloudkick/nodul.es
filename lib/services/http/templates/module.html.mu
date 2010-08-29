@@ -42,10 +42,10 @@
   <pre><code>{{debug_plaintext}}<code></pre>
 
   Files:
-  {{#files}}
   <ul>
-  <li><a href="/source/{{modname}}/{{name}}">{{name}}</a></li>
+    {{#files}}
+      <li><a href="/source/{{modname}}/{{name}}">{{name}}</a></li>
+    {{/files}}
   </ul>
-  {{/files}}
 </div><!--/.module-->
 {{> footer }}
