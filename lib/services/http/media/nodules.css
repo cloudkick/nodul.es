@@ -59,3 +59,5 @@ h5,h6 { font-size:12px; font-weight:bold; }
 .author {}
 .author .name { float:left; max-width:180px; }
 .author .projects { float:left; margin-left:200px; }
+
+.clear { clear:both; }

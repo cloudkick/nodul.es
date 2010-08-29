@@ -12,6 +12,7 @@
     {{/projects}}
     </ul>
   </div><!--./author-->
+  <hr class="clear">
   {{/authors}}
 </div><!--./authors-->
 
