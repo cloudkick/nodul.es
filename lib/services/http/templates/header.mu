@@ -10,12 +10,10 @@
 <link rel="stylesheet" type="text/css" media="screen" href="/media/nodules.css" />
 </head>
 <body>
-  <div class="container shadow">
+  <div class="container">
 
   <div class="header">
   </div>
-
-  <div class="body">
 
     <div class="navbar">
       <ul class="nav">
@@ -25,5 +23,8 @@
         <li><a href="/categories/">by categories</a></li>
       </ul><!--/.nav-->
     </div><!--./navbar-->
+
+  <div class="body">
+
 
     <div class="mainbody">
