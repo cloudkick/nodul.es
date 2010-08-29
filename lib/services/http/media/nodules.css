@@ -12,7 +12,7 @@ body {
   text-rendering: optimizelegibility;
 }
 
-a:link, a:visited { color: #7e9699; }
+a:link, a:visited { color: #5c7477; }
 a:hover { color:rgba(100, 100, 180, 1); }
 a img { border: none; }
 ul,ol { padding:0 0 0 20px; }
