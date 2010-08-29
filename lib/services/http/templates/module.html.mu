@@ -36,7 +36,7 @@
 
   <hr>
 
-  {{version}}    
+  <h1>{{latest_version}}   </h1> 
 
   {{/module}}
 
