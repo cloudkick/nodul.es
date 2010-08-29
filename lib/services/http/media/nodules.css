@@ -63,7 +63,7 @@ h1, h2 {
 .author {  }
 .author .name { font-weight:bold; }
 .author .projects { margin-bottom:10px; }
-.author .projects li { display:inline; }
+.author .projects li { display:inline-block; padding-right:5px; }
 
 .clear { clear:both; }
 .floatR { float:right; }
