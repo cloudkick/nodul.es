@@ -103,11 +103,13 @@ h1, h2 {
 .footer li { display:inline-block; padding:2px 10px; }
 .footer a { color:#365e71; }
 
-
 .module .desc { 
   font-family: "Adobe Caslon Pro", "Georgia", serif; 
   font-weight:normal; 
   font-size:24px; 
   font-style:italic;
-  margin:-10px 0 0 140px;
+  margin:-10px 0 0 136px;
 }
+
+.inline-block { display:inline-block; padding:0 10px 0 0; }
+

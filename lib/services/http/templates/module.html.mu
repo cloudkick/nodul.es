@@ -5,8 +5,8 @@
   <h1><span class="dark">Module:</span> {{name}}</h1>
   <div class="desc">{{description}}</div>
 
-  <div class="authors">
-    Authors:
+  <div class="authors inline-block">
+    <h3>Authors:</h3>
     <ul>
     {{#maintainers}}
     <li><a href="/authors/{{name}}"><img src="{{avatar_url}}"/>{{name}}</a></li>
@@ -14,8 +14,8 @@
     </ul>
   </div><!--/.authors-->
 
-  <div class="dependencies">
-    Dependencies:
+  <div class="dependencies inline-block">
+    <h3>Dependencies:</h3>
     <ul>
     {{#dependencies}}
     <li><a href="/modules/{{name}}">{{name}}</a> {{version}}</li>
@@ -23,8 +23,8 @@
     </ul>
   </div>
 
-  <div class="reverse_dependencies">
-    Modules depending on this package:
+  <div class="reverse_dependencies inline-block">
+    <h3>Modules depending on this package:</h3>
     <ul>
     {{#reverse_dependencies}}
     <li><a href="/modules/{{name}}">{{name}}</a> {{version}}</li>
