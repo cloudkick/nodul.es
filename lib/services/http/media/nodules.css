@@ -46,7 +46,7 @@ dd { margin-bottom:15px; }
 .container { margin:0 auto; width:960px; padding:10px 0 40px 0; }
 .navbar-wrapper {
   background-color: #25404d;
-  border-bottom:1px solid #222;
+  border-bottom:1px solid #444;
 }
 .navbar { 
   margin:0 auto; 

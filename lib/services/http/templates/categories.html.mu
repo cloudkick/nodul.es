@@ -4,14 +4,14 @@
 <dl class="categories">
   {{#categories}}
     <dt>{{name}}</dt>
-    <dl>
+    <dd>
       <ul>
       {{#projects}}
         <li><a href="/modules/{{_id}}">{{name}}</a></li>
       {{/projects}}
       </ul>
-    </dl>
+    </dd>
   {{/categories}}
-</div><!--/.categories-->
+</dl><!--/.categories-->
 
 {{> footer }}
