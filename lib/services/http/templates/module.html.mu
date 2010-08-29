@@ -19,6 +19,14 @@ Dependencies:
 {{/dependencies}}
 </ul>
 </div>
+<div class="reverse_dependencies">
+Modules depending on this package:
+<ul>
+{{#reverse_dependencies}}
+<li><a href="/modules/{{name}}">{{name}}</a> {{version}}</li>
+{{/reverse_dependencies}}
+</ul>
+</div>
 
 {{/module}}
 possible variables:
