@@ -10,7 +10,7 @@
 <link rel="stylesheet" type="text/css" media="screen" href="/media/nodules.css" />
 </head>
 <body>
-  <div class="container">
+  <div class="container shadow">
 
   <div class="header">
   </div>
