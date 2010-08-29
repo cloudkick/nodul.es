@@ -5,7 +5,7 @@
 <ul class="authors">
   {{#authors}}
   <li class="author">
-  <dt class="name"><h4><a href="/authors/{{name}}">{{name}}</a></h4></dt>
+  <dt class="name"><h3><a href="/authors/{{name}}">{{name}}</a></h3></dt>
   <dd class="projects">
     <ul>
     {{#projects}}
