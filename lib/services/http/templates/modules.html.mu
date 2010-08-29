@@ -1,6 +1,6 @@
 {{> header }}
 
-<h1>Node.js Modules: Alphabetical</h1>
+<h1>Node.js Modules by Name</h1>
 <div class="modules">
   <dl>
   {{#modules}}
