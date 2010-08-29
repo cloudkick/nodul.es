@@ -93,7 +93,7 @@ h1, h2 {
 .clear { clear:both; }
 .floatR { float:right; }
 .floatL { float:left; }
-.border { border:1px solid #ccc; }
+.border {border: solid 1px rgba(0, 0, 0, 0.1); }
 .dark { color:#25404d; }
 
 .footer { text-align:center; padding:10px 0; color:#eee; }
