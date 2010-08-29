@@ -36,6 +36,10 @@
 
   <hr>
 
+  {{#latest_commit}}
+    <h3>Latest Commit</h3>
+    <div><a href="{{url}}">{{message}} @ {{authored_date}}</a></div>
+  {{/latest_commit}}
   {{/module}}
 
   possible variables:
