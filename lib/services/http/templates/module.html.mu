@@ -1,6 +1,7 @@
 {{> header }}
 
 {{#module}}
+
 <div class="module">
   <h1><span class="dark">Module:</span> {{name}} <span class="tiny" style="position:relative; left:10px; top:-20px;">(v{{latest_version}})</span></h1>
   <div class="desc">{{description}}</div>
@@ -45,8 +46,6 @@
   <pre>npm install {{name}}</pre>
   {{/module}}
 
-  possible variables:
-  <pre><code>{{debug_plaintext}}<code></pre>
   <hr>
 
 
