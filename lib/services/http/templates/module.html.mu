@@ -41,8 +41,13 @@
     <h3>Latest Commit</h3>
     <div><a href="{{url}}">{{message}} @ {{authored_date}}</a></div>
   {{/latest_commit}}
-  
-  <h3>Install</h3>
+
+  {{#tarball}}
+  <h3>Source tarball</h3>
+  <div><a href="{{url}}">{{name}}</a></div>
+  {{/tarball}}
+
+  <h3>Install via npm</h3>
   <pre>npm install {{name}}</pre>
   {{/module}}
 
