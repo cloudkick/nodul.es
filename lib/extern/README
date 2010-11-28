@@ -42,6 +42,6 @@ stacktrace fe9d84729c5 (May 29, 2010)
 
 markdown
 	http://attacklab.net/showdown/
-	License: ???
+	License: BSD
 	JS Markdown implementation git://github.com/Gozala/markdown-js.git
 
