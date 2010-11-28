@@ -8,9 +8,11 @@
 <title>Nodul.es: {{title}}</title>
 {{/title}}
 <link rel="stylesheet" type="text/css" media="screen" href="/media/nodules.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/media/prettify/prettify.css" />
 <link rel="alternate" title="Latest modules RSS feed" href="/modules/feed.atom" type="application/rss+xml">
+<script type="text/javascript" src="/media/prettify/prettify.js"></script>
 </head>
-<body>
+<body onload="prettyPrint()">
 
   <div class="navbar-wrapper">
   <div class="navbar">

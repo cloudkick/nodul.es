@@ -44,19 +44,18 @@
   
   <h3>Install</h3>
   <pre>npm install {{name}}</pre>
-  {{/module}}
+{{/module}}
 
   <hr>
 
 
-  <!--
-  Files:
+  <h3>Files:</h3>
   <ul>
     {{#files}}
       <li><a href="/source/{{modname}}/{{name}}">{{name}}</a></li>
     {{/files}}
   </ul>
-  -->
+
 
 </div><!--/.module-->
 {{> footer }}
