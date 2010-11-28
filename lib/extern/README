@@ -39,3 +39,9 @@ stacktrace fe9d84729c5 (May 29, 2010)
   http://github.com/emwendelin/javascript-stacktrace
   License: BSD
   Utility function to make a stack trace. Slightly modified to use CommonJS style exports.
+
+markdown
+	http://attacklab.net/showdown/
+	License: ???
+	JS Markdown implementation git://github.com/Gozala/markdown-js.git
+
