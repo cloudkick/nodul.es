@@ -1,2 +1,6 @@
 .sconsign.dblite
 config.log
+*.swn
+*.swo
+*.swp
+*.un~
